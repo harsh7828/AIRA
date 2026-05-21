@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "description": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.",
+    "relatedSkills": ["Arrays", "Hashing", "Python", "Java", "C++", "JavaScript", "TypeScript", "Node.js", "React", "DSA"]
+  },
+  {
+    "id": 2,
+    "title": "Reverse Linked List",
+    "topic": "Linked Lists",
+    "difficulty": "Easy",
+    "description": "Given the head of a singly linked list, reverse the list, and return the reversed list.",
+    "relatedSkills": ["Linked Lists", "Pointers", "Java", "C++", "Python", "JavaScript", "TypeScript", "DSA"]
+  },
+  {
+    "id": 3,
+    "title": "Valid Parentheses",
+    "topic": "Stacks",
+    "difficulty": "Easy",
+    "description": "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.",
+    "relatedSkills": ["Stacks", "Strings", "Python", "Java", "JavaScript", "TypeScript", "C++", "DSA"]
+  },
+  {
+    "id": 4,
+    "title": "Merge Intervals",
+    "topic": "Sorting",
+    "difficulty": "Medium",
+    "description": "Given an array of intervals where intervals[i] = [starti, endi], merge all overlapping intervals.",
+    "relatedSkills": ["Sorting", "Arrays", "Python", "Java", "C++", "JavaScript", "TypeScript", "Node.js", "DSA"]
+  },
+  {
+    "id": 5,
+    "title": "LRU Cache",
+    "topic": "Design",
+    "difficulty": "Medium",
+    "description": "Design a data structure that follows the constraints of a Least Recently Used (LRU) cache.",
+    "relatedSkills": ["Design", "Linked Lists", "Hashing", "Java", "Python", "C++", "JavaScript", "TypeScript", "DSA"]
+  },
+  {
+    "id": 6,
+    "title": "Binary Search",
+    "topic": "Searching",
+    "difficulty": "Easy",
+    "description": "Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums using binary search.",
+    "relatedSkills": ["Binary Search", "Arrays", "Python", "Java", "C++", "JavaScript", "TypeScript", "DSA", "Algorithms"]
+  },
+  {
+    "id": 7,
+    "title": "Maximum Subarray",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "description": "Given an integer array nums, find the subarray with the largest sum, and return its sum using Kadane's algorithm.",
+    "relatedSkills": ["Dynamic Programming", "Arrays", "Python", "Java", "C++", "JavaScript", "TypeScript", "DSA", "Algorithms"]
+  },
+  {
+    "id": 8,
+    "title": "Implement Queue using Stacks",
+    "topic": "Stacks and Queues",
+    "difficulty": "Easy",
+    "description": "Implement a first in first out (FIFO) queue using only two stacks. The implemented queue should support all the functions of a normal queue.",
+    "relatedSkills": ["Stacks", "Queues", "Design", "Python", "Java", "C++", "JavaScript", "TypeScript", "DSA"]
+  },
+  {
+    "id": 9,
+    "title": "Find Missing Number",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "description": "Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.",
+    "relatedSkills": ["Arrays", "Math", "Python", "Java", "C++", "JavaScript", "TypeScript", "Node.js", "DSA"]
+  },
+  {
+    "id": 10,
+    "title": "String Compression",
+    "topic": "Strings",
+    "difficulty": "Medium",
+    "description": "Given an array of characters chars, compress it using the following algorithm: Begin with an empty string s. For each group of consecutive repeating characters, if the group's length is k, append characters such as 'ak' to s.",
+    "relatedSkills": ["Strings", "Arrays", "Python", "Java", "C++", "JavaScript", "TypeScript", "Node.js", "DSA"]
+  }
+]
